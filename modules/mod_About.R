@@ -8,7 +8,7 @@ ui_About <- function(id){
       column(6,
              HTML("<center><img src='https://www.javierorraca.com/images/Javier.jpg' width = '800px'></center>"),
              p(),
-             "My name is Javier Orraca and I’m a data scientist. I enjoy building predictive models, developing web applications, cooking, reading, and playing board games. For a living, I get to solve puzzles with data - Life is good.",
+             "My name is Rahul Kirtikar and I’m a data scientist. I enjoy building predictive models, developing web applications, cooking, reading, and playing board games. For a living, I get to solve puzzles with data - Life is good.",
              h2("Professional"),
              HTML("My career includes over 15 years of data science, financial strategy, and business analytics for EY, PG&E, KPMG, and Health Net (a Centene Corporation company). As a Data Scientist at Health Net, I work for a Strategic Insights team supporting our Product Performance organization. I help our business develop predictive algorithms and deploy web apps for our internal leaders and Sales teams. I also get to have some extra fun at work by co-hosting a monthly Centene R User Group for our company’s analysts and data scientists."),
              p(),
